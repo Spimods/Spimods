@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://codepen.io/gregoire-hernu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gregoire-hernu" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@spimods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="spimods" height="30" width="40" /></a>
-<a href="https://discord.gg/spimods#3480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="spimods#3480" height="30" width="40" /></a>
+<a href="https://discord.com/users/894100395650072647" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="spimods#3480" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
