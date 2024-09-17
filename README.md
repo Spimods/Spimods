@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spimods" alt="spimods" /></a> </p>
 
-- 🔭 Je travaille actuellement sur [L'Ozanam CyberQuest](https://github.com/Spimods/falcon-IX)
+- 🔭 Je travaille actuellement sur [gest corp]()
 
-- 🌱 Je suis en train d'apprendre le **Lua**
+- 🌱 Je suis en train d'apprendre le **rs**
 
-- 🤝 Je travaille avec 
+- 🤝 Je travaille avec moi même 
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://spimods.github.io/Portfolio/](https://spimods.github.io/Portfolio/)
 
