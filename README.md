@@ -9,7 +9,7 @@
 
 - 🌱 Je suis en train d'apprendre le **Lua**
 
-- 🤝 Je travaille avec [@au-bin](https://github.com/au-bin)
+- 🤝 Je travaille avec 
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://spimods.github.io/Portfolio/](https://spimods.github.io/Portfolio/)
 
